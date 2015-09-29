@@ -1,4 +1,4 @@
-<p><img src="{{blog.image}}" alt="{{blog.title}}"></p>
+{{#link-to 'blog' blog.id}}<p><img src="{{blog.image}}" alt="{{blog.title}}"></p>
 <h3>{{blog.title}}</h3>
 <p>{{blog.author}}</p>
-<p>{{blog.date}}</p>
+<p>{{blog.date}}</p>{{/link-to}}
