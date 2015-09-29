@@ -1,0 +1,11 @@
+{
+    "blogs": [
+        {
+          "author": "Veronica Mars",
+          "date": "9/21/15",
+          "category": "How-to",
+          "title": "How to become a detective",
+          "content": "Here's how you can become a detective...",
+          "image": "https://upload.wikimedia.org/wikipedia/en/2/22/Veronica_mars_intro.jpg"
+    }]
+}
